@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+    <name>Klevis_CategoryBannerLink</name>
+    <version>0.0.1</version>
+    <stability>stable</stability>
+    <license>GNU General Public License</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Add a link to your category banner.</summary>
+    <description>Sometimes you need to add a promotion banner to a category and link it somewhere else. &#xD;
+With this extension you can add a link to the category banner image.</description>
+    <notes>First release.</notes>
+    <authors><author><name>Klevis Miho</name><user>Klevis_Miho</user><email>klevisi@gmail.com</email></author></authors>
+    <date>2014-04-11</date>
+    <time>14:53:57</time>
+    <contents><target name="magecommunity"><dir name="Klevis"><dir name="CategoryBannerLink"><dir name="etc"><file name="config.xml" hash="ecc64032fa450844d55a8dc450661930"/></dir><dir name="sql"><dir name="Klevis_CategoryBannerLink_setup"><file name="install-0.0.1.php" hash="bc093347f0fab0a369a9bf4cc9c8820b"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Klevis_CategoryBannerLink.xml" hash="9e49e893fc86d7181d9af93bf96efb65"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
