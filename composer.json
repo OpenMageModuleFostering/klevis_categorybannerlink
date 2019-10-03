@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Klevis_CategoryBannerLink",
+    "name": "OpenMageModuleFostering\/Klevis_CategoryBannerLink",
     "type": "magento-module",
     "license": "GNU-General-Public-License",
     "homepage": "",
     "description": "Add a link to your category banner.",
     "authors": [
-    {
-        "name": "Klevis Miho",
-        "email": "klevisi@gmail.com"
-    }
-],
+        {
+            "name": "Klevis Miho",
+            "email": "klevisi@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
